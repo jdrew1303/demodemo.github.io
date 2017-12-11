@@ -108,7 +108,7 @@ sub { top: .5ex; }
 .card p { margin: 0.5em 0; }
 .card .links { margin-top: 2.5em; }
 .card .links > a { margin: 0 0.3em 0 0; }
-.card .photo { width: 75px; height: 75px; float: left; border: 1px solid white; background: url('/about/photo@2x.jpg'); background-size: 73px; }
+.card .photo { width: 75px; height: 75px; float: left; border: 1px solid white; background: url('https://avatars2.githubusercontent.com/u/2535432?s=460&v=4'); background-size: 73px; }
 .card .photo img { width: 73px; height: 73px; display: none; }
 .card .permalink, .version { position: absolute; bottom: -22px; font-size: 10px; color: hsl(215, 50%, 75%); }
 .card .version { right: 0; }
