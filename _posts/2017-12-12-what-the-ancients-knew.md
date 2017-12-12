@@ -7,4 +7,4 @@ summary: "Lessons from the early days of software development (tdd, pair program
 
 # WIP
 
-![](vintage_computers/dekatron.jpg)
+![](blog/vintage_computers/dekatron.jpg)
